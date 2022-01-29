@@ -23,7 +23,7 @@ The following  functionality is completed:
 
 ## Image Implementation 
 Here's a walkthrough of implemented user stories:
-<img src="Flix-Part2-Walkthrough.gif" width=250><br>
+<img src="Panier Mobile Application 2022" width=250><br>
 
 
 
