@@ -1,6 +1,6 @@
 # 
 
-# Project 3 - *Name of App Here*
+# Project 3 - *Panier Mobile*
 
 **PanierMobile** Is an Android application to Buy or sell product in Haiti 
 
@@ -23,7 +23,7 @@ The following  functionality is completed:
 
 ## Image Implementation 
 Here's a walkthrough of implemented user stories:
-<img src="Panier%20Mobile%20Application%202022.gif" width=250><br>
+<img src="Panier%20Mobile%20Application%202022.gif" width=250 height=250><br>
 
 
 
