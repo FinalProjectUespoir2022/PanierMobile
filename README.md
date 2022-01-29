@@ -15,7 +15,7 @@ The following  functionality is completed:
 - [x] User can Update new product to the app.
 - [x] User can Buy product in the app by contacting the Team.
 - [x] User can see their profile and logout.
-- [x] User can see information about team menbers.
+- [x] User can see information about team members.
 - [x] User can have a contact page to send us a message.
 
 
@@ -23,7 +23,7 @@ The following  functionality is completed:
 
 ## Image Implementation 
 Here's a walkthrough of implemented user stories:
-<img src="Panier Mobile Application 2022" width=250><br>
+<img src="Panier%20Mobile%20Application%202022.gif" width=250><br>
 
 
 
